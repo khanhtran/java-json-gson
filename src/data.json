@@ -1,0 +1,42 @@
+[
+	{
+		"code": "7DAYS.FULL",
+		"count": "7",
+		"period": "DAY",
+		"price":  "7.99",
+		"package_name": "Full",	
+		"description": "7-days plan"
+	},
+	{
+		"code": "1MONTH.FULL",
+		"count": "1",
+		"period": "MONTH",
+		"price":  "19.99",
+		"package_name": "Full",
+		"description": "1-month plan"
+	},
+	{
+		"code": "3MONTHS.FULL",
+		"count": "3",
+		"period": "MONTH",
+		"price":  "49.99",
+		"package_name": "Full",
+		"description": "3-months plan"
+	},
+	{
+		"code": "6MONTHS.FULL",
+		"count": "6",
+		"period": "MONTH",
+		"price":  "19.99",
+		"package_name": "Full",
+		"description": "6-months plan"
+	},
+	{
+		"code": "12MONTHS.FULL",
+		"count": "12",
+		"period": "MONTH",
+		"price":  "119.99",
+		"package_name": "Full",
+		"description": "12-months plan"
+	}
+]
